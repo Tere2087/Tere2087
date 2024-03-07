@@ -45,15 +45,24 @@
 <p align="left">
 </p>
 
+## Frontend
+<p align="left">
+  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/php.png" alt=php width="60" height="60"/> 
+	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/html5.png" alt=html5 width="60" height="60"/> 
+	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/css3.png" alt=css3 width="60" height="60"/> 
+  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/js.png" alt=javascript width="60" height="60"/>
+	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/bootstrap.png" alt=bootstrap width="60" height="60"/>
+</p>
+
 <h3 align="left">Languages and Tools:</h3>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code> 
+<code><img style="margin: auto;" src="https://logonoid.com/images/thumbs/intellij-idea-logo.png"  alt="IntelliJ IDEA Logo width="60" height="60"/></code>
+<code><img style="margin: auto;" src="https://logonoid.com/images/thumbs/eclipse-logo.png"  alt="Eclipse Logo" width="60" height="60"/></code>
+<code><img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/vsc.png" alt=vs width="60" height="60"/></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code> 
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/github/phyton.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/java/html.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/java/css.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/java/javascript.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/java/php.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+
 </p>
                                                                                                                                                                                                     
 <h3 align="left">Desktop Environment:</h3> 
