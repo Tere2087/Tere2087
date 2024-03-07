@@ -49,11 +49,15 @@
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code> 
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/java/phyton.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/java/html.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/java/css.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/java/javascript.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/java/php.svg"></code>
 </p>
                                                                                                                                                                                                     
 <h3 align="left">Desktop Environment:</h3> 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg"></code> 
 <code><img width="5%" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/win10.png"></code>
 </p>
 
