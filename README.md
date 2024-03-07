@@ -56,7 +56,9 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code> 
-<code><img style="margin: auto;" src="https://logonoid.com/images/thumbs/intellij-idea-logo.png"  alt="IntelliJ IDEA Logo width="60" height="60"/></code>
+<code><img style="margin: auto;" src="https://logonoid.com/images/thumbs/jetbrains-logo.png"  alt="JetBrains Logo"  width="60" height="60"/></code>
+<code><img style="margin: auto;" src="https://logonoid.com/images/thumbs/intellij-idea-logo.png"  alt="IntelliJ IDEA Logo" width="60" height="60"/></code>
+<code><img style="margin: auto;" src="https://logonoid.com/images/thumbs/phpstorm-logo.png" alt="PhpStorm Logo" width="60" height="60"/></code>
 <code><img style="margin: auto;" src="https://logonoid.com/images/thumbs/eclipse-logo.png"  alt="Eclipse Logo" width="60" height="60"/></code>
 <code><img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/vsc.png" alt=vs width="60" height="60"/></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
@@ -66,7 +68,7 @@
 </p>
                                                                                                                                                                                                     
 <h3 align="left">Desktop Environment:</h3> 
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
 <code><img width="5%" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/win10.png"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
 </p>
 
