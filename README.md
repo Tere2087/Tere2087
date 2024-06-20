@@ -25,7 +25,7 @@
   </path>
 </g>
 
-<h1 align="center"> 👋 Hello World !  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">, I'm Teresa</h1>
+<h1 align="center"> 👋 Hello World !  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"/>, I'm Teresa</h1>
 <h3 align="center">From Canary Island, Tenerife</h3>
 
 
