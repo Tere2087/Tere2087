@@ -22,9 +22,7 @@
 <h4 align="center">📍 Canary Islands · Tenerife</h4>
 
 ## 👩‍💻 About me
-I'm currently studying **Web & Application Development (DAM)** with a growing interest in  
-**cybersecurity**. I like understanding how applications work internally — and how they can fail —  
-in order to build more secure and robust software.
+I'm currently studying **Web & Application Development (DAM)** with a growing interest in **cybersecurity**. I like understanding how applications work internally and how they can fail in order to build more secure and robust software.
 - 🌱 Focused on development fundamentals and secure coding  
 - 🛡️ Learning cybersecurity basics and pentesting concepts  
 - 💡 Curious, constant learner and technology enthusiast  
