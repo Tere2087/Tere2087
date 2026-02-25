@@ -96,5 +96,5 @@ SQL Injection, access control, users & privileges, backups and data exposure.
 
 
 ## 📫 Contact
-💬 **tetetnf@gmail.com**
+💬 **tchsecuredev@gmail.com**
 > *"Learning how systems break is the first step to building them better."*
