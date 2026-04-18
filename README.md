@@ -1,100 +1,133 @@
-![pacman](https://github.com/Tere2087/Tere2087/assets/154341453/edb733b9-cedd-4f00-bb89-6a19517bd7c2)
+<p align="center">
+  <img src="https://github.com/Tere2087/Tere2087/assets/154341453/edb733b9-cedd-4f00-bb89-6a19517bd7c2" alt="Pacman animation" width="150">
+</p>
 
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="margin: auto; background: none; display: block; shape-rendering: auto;" width="100px" height="100px" viewBox="0 0 100 100" preserveAspectRatio="xMidYMid">
-<g>
-  <circle cx="53.7985" cy="50" r="4" fill="#2d2a2e">
-    <animate attributeName="cx" repeatCount="indefinite" dur="1s" values="95;35" keyTimes="0;1" begin="-0.67s"/>
-    <animate attributeName="fill-opacity" repeatCount="indefinite" dur="1s" values="0;1;1" keyTimes="0;0.2;1" begin="-0.67s"/>
-  </circle>
-  <circle cx="74.1985" cy="50" r="4" fill="#2d2a2e">
-    <animate attributeName="cx" repeatCount="indefinite" dur="1s" values="95;35" keyTimes="0;1" begin="-0.33s"/>
-    <animate attributeName="fill-opacity" repeatCount="indefinite" dur="1s" values="0;1;1" keyTimes="0;0.2;1" begin="-0.33s"/>
-  </circle>
-  <circle cx="93.9985" cy="50" r="4" fill="#2d2a2e">
-    <animate attributeName="cx" repeatCount="indefinite" dur="1s" values="95;35" keyTimes="0;1" begin="0s"/>
-    <animate attributeName="fill-opacity" repeatCount="indefinite" dur="1s" values="0;1;1" keyTimes="0;0.2;1" begin="0s"/>
-  </circle>
-</g>
-</svg>
+<h1 align="center">Hi there 👋 I'm Teresa</h1>
+<h3 align="center">Web & Application Developer (DAM) · Cybersecurity Learner</h3>
 
-<h1 align="center">👋 Hello World! 🌍 I'm Teresa</h1>
-<h3 align="center">Web & Application Developer (DAM) | Cybersecurity Path</h3>
-<h4 align="center">📍 Canary Islands · Tenerife</h4>
+<p align="center">
+  📍 Tenerife, Canary Islands
+</p>
 
-## 👩‍💻 About me
-I'm currently studying **Web & Application Development (DAM)** with a growing interest in **cybersecurity**. I like understanding how applications work internally and how they can fail in order to build more secure and robust software.
-- 🌱 Focused on development fundamentals and secure coding  
-- 🛡️ Learning cybersecurity basics and pentesting concepts  
-- 💡 Curious, constant learner and technology enthusiast  
-<br>
+<p align="center">
+  Passionate about development, secure coding and continuous learning
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Backend-Learning-0A66C2?style=flat" />
+  <img src="https://img.shields.io/badge/Cybersecurity-Path-2ea44f?style=flat" />
+  <img src="https://img.shields.io/badge/Secure%20Coding-In%20Progress-6f42c1?style=flat" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Application+Developer;Cybersecurity+Learner;Always+building+and+learning" />
+</p>
+
+---
+
+## 👩‍💻 About Me
+
+I’m currently studying **Web & Application Development (DAM)** and building my path toward **cybersecurity**.  
+I enjoy understanding how software works internally, how systems fail, and how to build applications that are more secure, robust and useful.
+
+- 🌱 Strengthening my foundations in software development
+- 🛡️ Learning cybersecurity, pentesting basics and secure coding
+- 💡 Curious mind, practical learner and technology enthusiast
+- 🚀 Interested in backend, automation and security-focused projects
+
+---
 
 ## 🛡️ Cybersecurity Path
-- 🐉 Kali Linux (learning & labs)
-- 🔍 Basic reconnaissance (Nmap, Gobuster)
-- 🌐 Web vulnerabilities (OWASP Top 10 – learning phase)
-- 🧪 Hands-on labs (TryHackMe / personal practice)
-📌 *Ethical hacking for educational purposes only*
-<br>
 
-## 🧠 What you’ll find in my GitHub
-- 📂 Academic projects (DAM)
-- 🧩 Small development experiments
-- 🔐 Cybersecurity learning notes and labs
-- 🐍 Python scripts related to security fundamentals
-<br>
+- 🐉 Kali Linux for labs and learning
+- 🔎 Basic reconnaissance with **Nmap** and **Gobuster**
+- 🌐 Studying **web vulnerabilities** and **OWASP Top 10**
+- 🧪 Hands-on practice with labs and personal exercises
+- 🔐 Growing interest in secure development and offensive security fundamentals
+
+> **Ethical hacking only for educational and authorized purposes.**
+
+---
+
+## 🧠 What You'll Find on My GitHub
+
+- 📂 Academic projects from DAM
+- 💻 Web and app development projects
+- 🐍 Python scripts and small utilities
+- 🔐 Cybersecurity notes, labs and learning experiments
+- 🧩 Personal practice projects to keep improving
+
+---
 
 ## 💻 Languages
+
 <p align="left">
-  <img width="6%" src="https://www.vectorlogo.zone/logos/java/java-vertical.svg"/>
-  <img width="6%" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"/>
-  <img src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/html5.png" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/css3.png" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/js.png" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/react.png" width="60" height="60"/>
+  <img src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" width="48" alt="Java"/>
+  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="48" alt="Python"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="48" alt="HTML5"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="48" alt="CSS3"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" alt="JavaScript"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="48" alt="React"/>
 </p>
-<br>
+
+---
 
 ## 🗄️ Databases
 
 <p align="left">
-  <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width="60" height="60"/>
-  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" width="60" height="60"/>
-  <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" width="60" height="60"/>
+  <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width="48" alt="PostgreSQL"/>
+  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" width="48" alt="MySQL"/>
+  <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" width="48" alt="MariaDB"/>
 </p>
 
-<p>
-Used in development and learning about security topics such as:
-SQL Injection, access control, users & privileges, backups and data exposure.
-</p>
+Used in development and learning topics such as:
 
-<br>
+- SQL Injection  
+- Users, roles and privileges  
+- Data exposure risks  
+- Access control  
+- Backups and database security basics  
 
+---
 
 ## 🧰 Tools & Technologies
 
 <p align="left">
-  <img src="https://www.kali.org/images/kali-dragon-icon.svg" width="70" height="70"/>
-  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" width="50" height="50"/>
-  <img src="https://logonoid.com/images/thumbs/jetbrains-logo.png" width="50" height="50"/>
+  <img src="https://www.kali.org/images/kali-dragon-icon.svg" width="48" alt="Kali Linux"/>
+  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" width="48" alt="VS Code"/>
+  <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/jb_square.svg" width="48" alt="JetBrains"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="48" alt="Git"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="48" alt="GitHub"/>
 </p>
 
-<p>
-🐉 Kali Linux used for learning, labs and ethical security testing.
-</p>
+🐉 **Kali Linux** is part of my learning environment for labs and ethical security practice.
 
-<br>
+---
 
-
-## 🖥️ Desktop Environment
+## 🖥️ Environment
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/win10.png" width="50" height="50"/>
-  <img src="https://logonoid.com/images/thumbs/linux-logo.png" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" width="48" alt="Windows"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="48" alt="Linux"/>
 </p>
 
-<br>
+---
 
+## 🎯 Current Focus
+
+- Building a solid developer profile  
+- Improving backend and application logic skills  
+- Learning secure coding practices  
+- Advancing step by step into cybersecurity  
+
+---
 
 ## 📫 Contact
-💬 **tchsecuredev@gmail.com**
-> *"Learning how systems break is the first step to building them better."*
+
+📧 **tchsecuredev@gmail.com**
+
+---
+
+<p align="center">
+  <i>"Understanding how systems break is the first step to building them better."</i>
+</p>
