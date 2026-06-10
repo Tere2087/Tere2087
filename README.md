@@ -27,7 +27,7 @@
 
 ## 👩‍💻 About Me
 
-**Web & Application Development (DAM)** and building my path toward **cybersecurity**.  
+**Web & Application Development** and building my path toward **cybersecurity**.  
 I enjoy understanding how software works internally, how systems fail, and how to build applications that are more secure, robust and useful.
 
 - 🌱 Strengthening my foundations in software development
