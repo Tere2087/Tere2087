@@ -64,11 +64,11 @@ I enjoy understanding how software works internally, how systems fail, and how t
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" width="48" alt="Java"/>
   <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="48" alt="Python"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="48" alt="php"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="48" alt="HTML5"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="48" alt="CSS3"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" alt="JavaScript"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="48" alt="React"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="48" alt="php"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" width="48" alt="laravel"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" width="48" alt="angular"/>
 </p>
