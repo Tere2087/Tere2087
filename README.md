@@ -14,17 +14,17 @@ Alongside development, I'm studying for a **Master's in Cybersecurity**, explori
   
 ## 🎓 Education & Experience
 
-- 🎓 **Higher Technician in Multi-platform Application Development (DAM)** — completed
-- 🎓 **Master's in Cybersecurity** — in progress (expected June 2027)
-- 💼 **Full-Stack / Backend Developer** — professional experience with web applications, APIs and databases
+- 🎓 **Higher Technician in Multi-platform Application Development (DAM)** 
+- 🎓 **Master's in Cybersecurity**  in progress (expected June 2027)
+- 💼 **Full-Stack / Backend Developer** professional experience with web applications, APIs and databases
   
 
 ## 💻 Languages & Frameworks
 
 <p align="left">
-  <img src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" width="48" alt="Java"/>
   <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="48" alt="Python"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="48" alt="php"/>
+  <img src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" width="48" alt="Java"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="48" alt="HTML5"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="48" alt="CSS3"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" alt="JavaScript"/>
@@ -40,6 +40,7 @@ Alongside development, I'm studying for a **Master's in Cybersecurity**, explori
   <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width="48" alt="PostgreSQL"/>
   <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" width="48" alt="MySQL"/>
   <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" width="48" alt="MariaDB"/>
+  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="48" alt="Squlite"/>
 </p>
 
 ## 🧰 Tools & Technologies
